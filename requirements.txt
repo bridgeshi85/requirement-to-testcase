@@ -1,0 +1,6 @@
+langchain==0.3.25
+openai==1.10.0
+pandas==2.2.2                # 用于输出表格
+openpyxl==3.1.2              # Excel 文件支持
+python-dotenv==1.0.1         # 加载 .env 配置
+langchain-experimental==0.3.4
